@@ -1,5 +1,8 @@
+
 # Project Name : Credit Card Financial Report Analysis
 In this project, financial analyses were made with customer data taken from SQL database and a report was developed in which situation analysis, performance management and data trends were visualised.
+
+
 
 # Features
 - Modern and simple design
@@ -10,6 +13,8 @@ In this project, financial analyses were made with customer data taken from SQL 
 
   
 -----------------------------------------------------------------------------------
+
+
 
 # Proje Adı : Kredi kartı Finansal Rapor Analizi
 Bu projede, SQL veritabanından alınan müşteri verileriyle finansal analizler yapılarak, durum analizi, performans yönetimi ve veri trendlerinin görselleştirildiği bir rapor geliştirilmiştir.
